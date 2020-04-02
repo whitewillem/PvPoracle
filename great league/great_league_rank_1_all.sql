@@ -2253,7 +2253,7 @@ VALUES ('CHANNEL_ID_HERE', '', 0, 553, 0, 0, 0, 100, 0, 9000, 0, 18, 0, 13, 14, 
 /* Darumaka, Darmanitan */
 INSERT INTO monsters
 (`id`, `ping`, `clean`, `pokemon_id`, `form`, `distance`, `min_iv`, `max_iv`, `min_cp`, `max_cp`, `min_level`, `max_level`, `atk`, `def`, `sta`, `template`, `min_weight`, `max_weight`, `max_atk`, `max_def`, `max_sta`, `gender`)
-VALUES ('CHANNEL_ID_HERE', '', 0, 554, 138, 0, 0, 100, 0, 9000, 0, 18, 0, 15, 11, 4, 0, 9000000, 0, 15, 11, 0);
+VALUES ('CHANNEL_ID_HERE', '', 0, 554, 0, 0, 0, 100, 0, 9000, 0, 18, 0, 15, 11, 4, 0, 9000000, 0, 15, 11, 0);
 
 INSERT INTO monsters
 (`id`, `ping`, `clean`, `pokemon_id`, `form`, `distance`, `min_iv`, `max_iv`, `min_cp`, `max_cp`, `min_level`, `max_level`, `atk`, `def`, `sta`, `template`, `min_weight`, `max_weight`, `max_atk`, `max_def`, `max_sta`, `gender`)
